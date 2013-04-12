@@ -1,4 +1,4 @@
-package minecraft_question.test;
+package minecraft_question;
 
 import static org.junit.Assert.*;
 import junit.framework.Assert;
