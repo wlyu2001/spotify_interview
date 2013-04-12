@@ -53,10 +53,10 @@ public class MinecraftGameTestCase {
 	@Test
 	public void testUnMatchObject2() {
 		int[][] canvas=new int[][]{
-				{1,0,0,0},
+				{0,0,0,0},
 				{0,1,0,0},
 				{0,2,3,0},
-				{0,0,0,0}
+				{0,0,0,1}
 		};
 		int[][] objectPattern=new int[][]{
 				{1,0},
